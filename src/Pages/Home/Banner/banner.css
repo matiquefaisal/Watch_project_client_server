@@ -1,0 +1,11 @@
+/* css for banner.js */
+.banner {
+  background-image: url("https://i.ibb.co/gVFZWYq/page-title-copyright-1920x1280.png");
+  width: 100%;
+  min-height: 90vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  color: white;
+}
